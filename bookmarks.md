@@ -105,7 +105,7 @@ The kinds of things I would store in Instapaper...
 - [Spotify Web Player](https://play.spotify.com/?utm_source=web-player&utm_campaign=bookmark)
 - [Spotlistr - Convert Anything to a Spotify Playlist!](http://spotlistr.herokuapp.com/#/search/lastfm-similar)
 - [DistroKid](https://distrokid.com/)    
-  DistroKid is the easiest way for musicians to get music into iTunes, Spotify, Amazon, Google Play, and more. Upload as much as you want, keep 100% of your royalties. For Woodshed artists. Woodshed record label.
+  DistroKid is the easiest way for musicians  to get music into iTunes, Spotify, Amazon, Google Play, and more. Upload as much as you want, keep 100% of your royalties. For Woodshed artists. Woodshed record label.
 - [Spotify for Linux](https://www.spotify.com/us/download/linux/)
 
 * * *
