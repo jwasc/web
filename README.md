@@ -1,0 +1,2 @@
+# web
+Static web pages
